@@ -1,4 +1,4 @@
-package TestStaticProperty;
+package accessModifier.TestStaticProperty;
 
 public class Cars {
     private String name;
